@@ -1,5 +1,5 @@
 # Tendencia e Innovación en Tencología Agrícola (TEA)
 
 nombre = input("¿Cuál es tu nombre?")
-x = "Hola "
+x = " Hola "
 print (x + nombre)

@@ -1,5 +1,5 @@
 # Tendencia e Innovación en Tencología Agrícola (TEA)
 Horas = input(" numero de horas ")
 valorporhora = input(" valor por horas ") 
-total = int(Horas) * int(valorporhora)
+total = int(Horas) * float(valorporhora)
 print(total)
